@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий Шлопак](https://up.htmlacademy.ru/javascript/10/user/182700).
-* Наставник: `Неизвестно`.
+* Наставник: без наставника.
 
 ---
 
